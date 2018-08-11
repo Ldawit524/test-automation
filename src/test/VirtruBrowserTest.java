@@ -18,7 +18,6 @@ import java.util.concurrent.TimeUnit;
 
 @RunWith(JUnit4.class)
 public class VirtruBrowserTest {
-
   protected static WebDriver driver;
   private WebElement element;
 
